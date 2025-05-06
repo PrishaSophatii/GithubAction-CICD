@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>my react app hello.</div>
-     <p>.hello</p>
+     <p>.hello finallyy</p>
   )
 }
 
